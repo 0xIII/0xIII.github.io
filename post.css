@@ -1,0 +1,13 @@
+.content {
+    font-size: 1.1rem;
+    line-height: 1.4;
+}
+
+ref {
+    vertical-align: top;
+    font-size: smaller;
+}
+
+.side-r h3 {
+    color: var(--red);
+}
